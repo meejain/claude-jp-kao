@@ -18,6 +18,12 @@ import {
  * @param {Element} main The container element
  */
 function buildHeroBlock(main) {
+  // Don't auto-build if a hero block (or variant) already exists
+  const existingHeroBlock = main.querySelector('[class*="hero"]');
+  if (existingHeroBlock) {
+    return;
+  }
+
   const h1 = main.querySelector('h1');
   const picture = main.querySelector('picture');
   // eslint-disable-next-line no-bitwise

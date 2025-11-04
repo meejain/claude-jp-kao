@@ -1,0 +1,51 @@
+{
+  "variantName": "hero-planet",
+  "baseBlock": "hero",
+  "version": "1.0.0",
+  "created": "2025-11-04T09:36:35.614Z",
+  "sourceContext": {
+    "originUrl": "https://www.kao.com/jp/sustainability/planet/",
+    "originPage": "sustainability planet page",
+    "screenshotPath": "blocks/hero-planet/reference-screenshot.png",
+    "blockPosition": "top"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "minimal",
+    "purpose": "sustainability-hero",
+    "imagePattern": "large",
+    "textLength": "short"
+  },
+  "contentPattern": {
+    "structure": "heading only",
+    "headingMaxLength": 50,
+    "descriptionMaxLength": 0,
+    "buttonCount": 0,
+    "imageCount": 1
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "sustainability pages",
+      "planet/environment pages",
+      "full-width hero sections with minimal text"
+    ],
+    "notSuitableFor": [
+      "product pages with CTAs",
+      "hero sections with multiple buttons",
+      "text-heavy hero sections"
+    ],
+    "similarVariants": []
+  },
+  "designTokens": {
+    "primaryColor": "#ffffff",
+    "backgroundColor": "#ffffff",
+    "fontFamily": "system-ui",
+    "headingSize": "2rem",
+    "padding": "40px 24px"
+  },
+  "usage": {
+    "pagesUsing": ["/jp/sustainability/planet/index"],
+    "reuseCount": 1,
+    "lastUsed": "2025-11-04T09:36:35.614Z"
+  }
+}

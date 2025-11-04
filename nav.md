@@ -1,0 +1,82 @@
+[![Kao](/icons/kao-logo.png)](https://www.kao.com/jp/) Japan / 日本語
+
+---
+
+- [花王について](javascript:void(0);)
+  - [花王についてトップ](https://www.kao.com/jp/corporate/)
+  - [会社概要](https://www.kao.com/jp/corporate/about/)
+  - [企業理念](https://www.kao.com/jp/corporate/vision/)
+- [サステナビリティ](javascript:void(0);)
+  - [サステナビリティトップ](https://www.kao.com/jp/sustainability/)
+  - **花王のESG戦略 – Kirei Lifestyle Plan**
+    - [花王のESG戦略 – Kirei Lifestyle Plan](https://www.kao.com/jp/sustainability/klp/)
+    - [ESG活動の基本方針](https://www.kao.com/jp/sustainability/klp/policy/)
+  - **快適な暮らしを自分らしく送るために**
+    - [快適な暮らしを自分らしく送るために](https://www.kao.com/jp/sustainability/me/)
+    - [QOLの向上](https://www.kao.com/jp/sustainability/me/qol/)
+    - [清潔で美しくすこやかな習慣](https://www.kao.com/jp/sustainability/me/habit/)
+    - [ユニバーサルプロダクトデザイン](https://www.kao.com/jp/sustainability/me/universal-design/)
+    - [より安全でより健康な製品](https://www.kao.com/jp/sustainability/me/safer-healthier-products/)
+  - **思いやりのある選択を社会のために**
+    - [思いやりのある選択を社会のために](https://www.kao.com/jp/sustainability/we/)
+    - [サステナブルなライフスタイルの推進](https://www.kao.com/jp/sustainability/we/lifestyle/)
+    - [パーパスドリブンなブランド](https://www.kao.com/jp/sustainability/we/purpose-driven-brand/)
+    - [暮らしを変えるイノベーション](https://www.kao.com/jp/sustainability/we/innovation/)
+    - [責任ある原材料調達](https://www.kao.com/jp/sustainability/we/procurement/)
+  - **よりすこやかな地球のために**
+    - [よりすこやかな地球のために](https://www.kao.com/jp/sustainability/planet/)
+    - [脱炭素](https://www.kao.com/jp/sustainability/planet/decarbonization/)
+    - [ごみゼロ](https://www.kao.com/jp/sustainability/planet/zero-waste/)
+    - [水保全](https://www.kao.com/jp/sustainability/planet/water-conservation/)
+    - [大気および水質汚染防止](https://www.kao.com/jp/sustainability/planet/air-water/)
+  - **正道を歩む**
+    - [正道を歩む](https://www.kao.com/jp/sustainability/walking-the-right-path/)
+    - [実効性のあるコーポレート・ガバナンス](https://www.kao.com/jp/sustainability/walking-the-right-path/corporate-governance/)
+    - [徹底した透明性](https://www.kao.com/jp/sustainability/walking-the-right-path/transparency/)
+    - [人権の尊重](https://www.kao.com/jp/sustainability/walking-the-right-path/humanrights/)
+    - [受容性と多様性のある職場](https://www.kao.com/jp/sustainability/walking-the-right-path/inclusive-diverse/)
+    - [社員の健康増進と安全](https://www.kao.com/jp/sustainability/walking-the-right-path/wellbeing-safety/)
+    - [人財開発](https://www.kao.com/jp/sustainability/walking-the-right-path/human-capital/)
+    - [責任ある化学物質管理](https://www.kao.com/jp/sustainability/walking-the-right-path/chemicals-management/)
+  - **自然環境への取り組み**
+    - [自然環境への取り組み](https://www.kao.com/jp/sustainability/nature/)
+    - [生物多様性の取り組み](https://www.kao.com/jp/sustainability/nature/biodiversity/)
+    - [環境への取り組み](https://www.kao.com/jp/sustainability/nature/environment/)
+  - **社会貢献活動**
+    - [社会貢献活動](https://www.kao.com/jp/sustainability/society/)
+    - [暮らし](https://www.kao.com/jp/sustainability/society/life/)
+    - [社会](https://www.kao.com/jp/sustainability/society/community/)
+    - [環境](https://www.kao.com/jp/sustainability/society/environment/)
+    - [次世代育成](https://www.kao.com/jp/sustainability/society/next-generation/)
+    - [社員参加型の活動](https://www.kao.com/jp/sustainability/society/employee-activities/)
+    - [災害支援](https://www.kao.com/jp/sustainability/society/support/)
+    - [社会貢献活動報告](https://www.kao.com/jp/sustainability/society/report/)
+    - [動画で見る社会貢献活動](https://www.kao.com/jp/sustainability/society/society-movies/)
+  - **Sustainability Data Hub**
+    - [Sustainability Data Hub](https://www.kao.com/jp/sustainability/pdf/)
+    - [サステナビリティレポート](https://www.kao.com/jp/sustainability/pdf/sustainability-report/)
+    - [Our Foundations](https://www.kao.com/jp/sustainability/pdf/foundations/)
+    - [ESGデータ集](https://www.kao.com/jp/sustainability/pdf/esg-data/)
+    - [環境活動データ集](https://www.kao.com/jp/sustainability/pdf/environment-activity-data/)
+    - [GRI/UNGPs/TCFD対照表](https://www.kao.com/jp/sustainability/pdf/research-index/)
+    - [社会からの評価](https://www.kao.com/jp/sustainability/pdf/recognition/)
+  - [サステナビリティトピックス](https://www.kao.com/jp/newsroom/news/sustainability-topics/)
+- [イノベーション](javascript:void(0);)
+  - [イノベーショントップ](https://www.kao.com/jp/innovation/)
+  - [研究開発](https://www.kao.com/jp/innovation/research/)
+- [ブランド](https://www.kao.com/jp/brands/)
+- [投資家情報](javascript:void(0);)
+  - [投資家情報トップ](https://www.kao.com/jp/investor-relations/)
+  - [IRライブラリー](https://www.kao.com/jp/investor-relations/library/)
+- [ニュースルーム](javascript:void(0);)
+  - [ニュースルームトップ](https://www.kao.com/jp/newsroom/)
+  - [ニュースリリース](https://www.kao.com/jp/newsroom/news/)
+- [採用情報](https://www.kao.com/jp/careers/)
+
+---
+
+- [生活情報サイト My Kao](https://my.kao-kirei.com/)
+- [製品Q&A](https://www.kao.com/jp/qa/)
+- [お問い合わせ](https://www.kao.com/jp/support/)
+- [Kao Worldwide](https://www.kao.com/global/en/worldwide/)
+- [検索する](javascript:void(0);)

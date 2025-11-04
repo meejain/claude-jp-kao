@@ -1,0 +1,52 @@
+{
+  "variantName": "columns-action",
+  "baseBlock": "columns",
+  "version": "1.0.0",
+  "created": "2025-11-04T09:36:38.425Z",
+  "sourceContext": {
+    "originUrl": "https://www.kao.com/jp/sustainability/planet/",
+    "originPage": "sustainability planet page - action sections",
+    "screenshotPath": "blocks/columns-action/reference-screenshot.png",
+    "blockPosition": "middle"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "compact",
+    "purpose": "action-feature",
+    "imagePattern": "dual",
+    "textLength": "medium"
+  },
+  "contentPattern": {
+    "structure": "2 images side-by-side (icon + photo)",
+    "headingMaxLength": 0,
+    "descriptionMaxLength": 200,
+    "buttonCount": 0,
+    "imageCount": 2
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "action/feature sections",
+      "dual image layouts (icon + photo)",
+      "sustainability action items",
+      "side-by-side content displays"
+    ],
+    "notSuitableFor": [
+      "single column layouts",
+      "text-only sections",
+      "more than 2 columns"
+    ],
+    "similarVariants": []
+  },
+  "designTokens": {
+    "primaryColor": "#ffffff",
+    "backgroundColor": "#ffffff",
+    "fontFamily": "system-ui",
+    "gap": "24px",
+    "padding": "0"
+  },
+  "usage": {
+    "pagesUsing": ["/jp/sustainability/planet/index"],
+    "reuseCount": 1,
+    "lastUsed": "2025-11-04T09:36:38.425Z"
+  }
+}
