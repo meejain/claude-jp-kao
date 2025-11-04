@@ -33,6 +33,11 @@ header nav[aria-expanded='true'] {
   min-height: 100dvh;
 }
 
+header a.button:any-link, button {
+  border: none;
+  color: black;
+}
+
 @media (width >= 900px) {
   header nav,
   header nav[aria-expanded='true'] {
