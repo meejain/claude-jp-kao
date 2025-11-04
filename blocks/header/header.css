@@ -526,3 +526,40 @@ header nav .nav-tools {
     font-size: 0.9em;
   }
 }
+
+/* Icon font for nav tools */
+header nav .nav-tools a[href*="/qa/"]::before {
+  content: "\e902";
+  font-family: 'kao_global_icon';
+  margin-right: 4px;
+  font-size: 1.1em;
+  vertical-align: middle;
+  color: #00806D;
+}
+
+header nav .nav-tools a[href*="/support/"]::before {
+  content: "\e900";
+  font-family: 'kao_global_icon';
+  margin-right: 4px;
+  font-size: 1.1em;
+  vertical-align: middle;
+  color: #00806D;
+}
+
+header nav .nav-tools a[href*="/worldwide/"]::before {
+  content: "\e901";
+  font-family: 'kao_global_icon';
+  margin-right: 4px;
+  font-size: 1.1em;
+  vertical-align: middle;
+  color: #00806D;
+}
+
+header nav .nav-tools a[href*="javascript:void(0)"]::before {
+  content: "\e015";
+  font-family: 'kao_global_icon';
+  margin-right: 4px;
+  font-size: 1.1em;
+  vertical-align: middle;
+  color: #00806D;
+}
