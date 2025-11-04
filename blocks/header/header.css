@@ -38,6 +38,13 @@ header a.button:any-link, button {
   color: black;
 }
 
+/* Remove left arrow from header buttons */
+header a.button:any-link::before,
+header button::before {
+  content: none;
+  display: none;
+}
+
 @media (width >= 900px) {
   header nav,
   header nav[aria-expanded='true'] {
@@ -459,18 +466,6 @@ header nav .nav-tools {
     text-decoration: underline;
   }
 
-  /* Chevron arrows for main category links */
-  header nav .nav-sections .default-content-wrapper > ul > li[aria-expanded='true'] > ul > li > strong + ul > li:first-child a::before,
-  header nav .nav-sections .default-content-wrapper > ul > li[aria-expanded='true'] > ul > li:first-child a::before {
-    content: '›';
-    font-size: 1.4em;
-    margin-right: 0.3em;
-    font-weight: 300;
-    color: white;
-    display: inline-flex;
-    align-items: center;
-    vertical-align: middle;
-  }
 
   /* Close button */
   header nav .nav-sections .default-content-wrapper > ul > li[aria-expanded='true']::after {
